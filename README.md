@@ -14,3 +14,11 @@ sudo apt update
 sudo apt-get install html-xml-utils
 
 sudo apt-get install xclip
+
+
+需要准备三张截图：
+第一张是回复对象的头像和小红点
+第二张是回复框
+第三张是文件传输助手
+
+求各位观众老爷给个星标
