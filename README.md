@@ -1,7 +1,7 @@
 # -
 为了自动回复某个微信好友，所建立的Python代码，其中包含OpenCV
 
-我的Python环境是Python3.10
+我的Python环境是Python3.10 ubantu版本是20.4.4
 可部署在ubantu中二十四小时循环
 ##需要在ubantu终端输入命令：
 
@@ -22,3 +22,4 @@ sudo apt-get install xclip
 第三张是文件传输助手
 
 求各位观众老爷给个星标
+环境代搭加QQ2321258280
