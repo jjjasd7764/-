@@ -4,6 +4,7 @@
 我的Python环境是Python3.10
 可部署在ubantu中二十四小时循环
 ##需要在ubantu终端输入命令：
+
 sudo apt install gnome-screenshot
 
 pip install opencv-python 
