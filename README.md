@@ -5,7 +5,11 @@
 可部署在ubantu中二十四小时循环
 ##需要在ubantu终端输入命令：
 sudo apt install gnome-screenshot
+
 pip install opencv-python 
+
 sudo apt update
+
 sudo apt-get install html-xml-utils
+
 sudo apt-get install xclip
